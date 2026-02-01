@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medidores App</string>
+
+    <!-- Pantalla Principal -->
+    <string name="titulo_registros">Registros de Medidores</string>
+    <string name="btn_nuevo_registro">Nuevo Registro</string>
+    <string name="sin_registros">No hay registros aún</string>
+
+    <!-- Formulario -->
+    <string name="titulo_formulario">Nuevo Registro</string>
+    <string name="hint_tipo">Tipo de Medidor</string>
+    <string name="hint_valor">Valor (ej: 123.45)</string>
+    <string name="hint_observacion">Observación (opcional)</string>
+    <string name="btn_guardar">Guardar Registro</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="label_fecha">Fecha de Lectura</string>
+
+    <!-- Tipos de Medición -->
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_luz">Luz</string>
+    <string name="tipo_gas">Gas</string>
+
+    <!-- Item Lista -->
+    <string name="label_fecha_item">Fecha: %s</string>
+    <string name="label_valor_item">Valor: %.2f</string>
+    <string name="btn_eliminar">Eliminar</string>
+</resources>
